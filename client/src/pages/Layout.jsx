@@ -23,7 +23,7 @@ const Layout = () => {
       </nav>
       <div className='flex-1 w-full flex h-[calc(100vh-64px)]'>
           <Sidebar sidebar={sidebar} setSidebar={setSidebar}/>
-          <div className='flex-1 bg-[#F4F7FB]'>
+          <div className='flex-1 bg-[#EDEDED]'>
             <Outlet />
           </div>
       </div>

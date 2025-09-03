@@ -41,7 +41,7 @@ const ReviewResume = () => {
       {/* left col */}
       <form onSubmit={onSubmitHandler} className='w-full max-w-lg p-4 bg-white rounded-lg border border-gray-200'>
           <div className='flex items-center gap-3'>
-            <Sparkles className='w-6 text-[#f3d219ff]'/>
+            <Sparkles className='w-6 text-[#29d2d2ff]'/>
             <h1 className='text-xl font-semibold'>Resume Review</h1>
           </div>
           <p className='mt-6 text-sm font-medium'>Upload Resume</p>
@@ -50,7 +50,7 @@ const ReviewResume = () => {
 
           <p className='text-xs text-gray-500 font-light mt-1'>Supports PDF resume only.</p>
           
-          <button className='w-full flex justify-center items-center gap-2 bg-gradient-to-r from-[#f3d219ff] to-[#0d1111ff] text-white px-4 py-2 mt-6 text-sm rounded-lg cursor-pointer'>
+          <button className='w-full flex justify-center items-center gap-2 bg-gradient-to-r from-[#f3d219ff] to-[#29d2d2ff] text-white px-4 py-2 mt-6 text-sm rounded-lg cursor-pointer'>
             {
               loading ? 
               <span className='w-4 h-4 my-1 rounded-full border-2 border-t-transparent animate-spin'></span>
