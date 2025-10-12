@@ -11,8 +11,8 @@ const AiTools = () => {
   return (
     <div className='px-4 sm:px-20 xl:px-32 my-24'>
       <div className='text-center'>
-        <h2 className='text-black-700 text-[45px] font-semibold'>💡CoreLogic 🧠 AI - Engine⚙️</h2>
-        <p className='text-gray-500 max-w-lg mx-auto'>Unleash your creativity with Quick.AI 🚀 — effortlessly create, enhance, and optimize content like never before .</p>
+        <h2 className='text-black-700 text-[45px] font-semibold'>CoreLogic  AI - Engine</h2>
+        <p className='text-gray-500 max-w-lg mx-auto'>Unleash your creativity with Quick.AI — effortlessly create, enhance, and optimize content like never before .</p>
       </div>
 
       <div className='flex flex-wrap mt-10 justify-center'>
