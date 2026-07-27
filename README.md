@@ -1,7 +1,7 @@
 # Quick AI – AI-Powered Full Stack Web Application
 
 ## Description
-Quick AI is a full-stack AI-powered web application that provides multiple AI tools on a single platform. Users can generate AI content, edit images, review resumes, and interact with the community.
+Quick AI is a full-stack AI-powered web application that enables users to generate AI content, create and edit images, review resumes, and interact with the community through a modern and responsive interface.
 
 ## Technologies Used
 - React.js
@@ -36,7 +36,7 @@ server/
 
 ## Live Demo
 
-https://quick-ai-server-lilac-eight.vercel.app
+quick-ai-full-stack-15w9gknkh-vishal-guptas-projects-d459b712.vercel.app
 
 ## Author
 
